@@ -13,11 +13,11 @@ params:
     title: Hi, my name is Desmond
   blog: {}
   contact:
-    address:
+    address: 
       - city: London, NW1 4SA
         country: United Kingdom
         street: Park Rd
-        title: Address
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
