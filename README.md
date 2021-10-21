@@ -1,2 +1,2 @@
 # my_website
-ahahfffgit
+This is the website of Desmond Hong.
