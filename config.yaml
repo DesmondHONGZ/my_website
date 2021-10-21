@@ -1,0 +1,113 @@
+baseURL: https://desmondhong-portfolio.netlify.app/
+languageCode: en-us
+title: Portfolio website for Desmond Hong
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+#    subtitle: |-
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+#      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Desmond
+  blog: {}
+  contact:
+    address:
+      - city: London, NW1 4SA
+        country: United Kingdom
+        street: Park Rd
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: zhong.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (+44) 07925705507
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: London Business School
+    enable: yes
+    quicklinks:
+#      - alt: HTML5 UP
+#        text: 'Design: '
+#        url: https://www.html5up.net
+    social:
+#      - icon: fa-twitter
+#        label: Twitter
+#        url: https://www.twitter.com
+#      - icon: fa-facebook
+#        label: Facebook
+#        url: https://www.facebook.com
+#      - icon: fa-instagram
+#        label: Instagram
+#        url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/DesmondHONGZ
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/desmond%EF%BC%88zuan%EF%BC%89-hong-694469152/
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
+    menu: Menu
+    subtitle: Webpage
+    title: Desmond Hong
+  tiles:
+    enable: yes
+    showcase:
+      - image: lbs.jpg
+        subtitle: risk return analysis for stock
+        title: risk return analysis
+        url: blogs/risk_return
+      - image: pic02.jpg
+        subtitle: investment fundamentals
+        title: investment
+        url: blogs/tempus
+      - image: pic03.jpg
+        subtitle: financial statement anaysis
+        title: accounting
+        url: blogs/magna
+      - image: pic04.jpg
+        subtitle: corporate finance
+        title: corporate
+        url: blogs/ipsum
+      - image: pic05.jpg
+        subtitle: principles in management
+        title: management
+        url: blogs/ipsum
+      - image: pic06.jpg
+        subtitle: intermediate macroeconomy
+        title: economics
+        url: blogs/ipsum
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Hi everyone!"
+    title: hello
+    url: blogs
